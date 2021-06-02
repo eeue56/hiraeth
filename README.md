@@ -3,11 +3,14 @@
 Hiraeth is a collection of small packages covering all aspects of modern web development with TypeScript. It's inspired by my experience writing and working on Elm-related projects. I don't recommend using the stack in production, but if you have a side project where you'd like the simplicity of Elm but the ecosystem of TypeScript, this might be the project for you.
 
 So far, the Hiraeth collection contains:
-- A Pytest-style test runner for TS called [Bach](https://github.com/eeue56/bach), supporting async and sync functions
-- An Elm-style documention generator that looks in your tsconfig to generate a markdown file with documentation per module called [geiriadur](https://github.com/eeue56/geiriadur)
-- A HTML library similar to Elm's called [Coed](https://github.com/eeue56/coed), built on a small virtual-dom
-- A library with functional programming datastructures called [ts-core](https://github.com/eeue56/ts-core/)
-- A fork of [Prettier](https://github.com/eeue56/prettier) that adds some whitespace to array literals
+
+-   A Pytest-style test runner for TS called [Bach](https://github.com/eeue56/bach), supporting async and sync functions
+-   An Elm-style documention generator that looks in your tsconfig to generate a markdown file with documentation per module called [geiriadur](https://github.com/eeue56/geiriadur)
+-   A HTML library similar to Elm's called [Coed](https://github.com/eeue56/coed), built on a small virtual-dom
+-   A library with functional programming datastructures called [ts-core](https://github.com/eeue56/ts-core/)
+-   A fork of [Prettier](https://github.com/eeue56/prettier) that adds some whitespace to array literals
+-   An implementation of Elm-style decoders called [Adeilad](https://github.com/eeue56/adeilad/)
+-   A package that tells you the raw typescript type for a json file or endpoint called [Amddiffyn](https://github.com/eeue56/amddiffyn)
 
 ## Context
 
