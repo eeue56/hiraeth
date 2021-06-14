@@ -11,6 +11,7 @@ So far, the Hiraeth collection contains:
 -   A fork of [Prettier](https://github.com/eeue56/prettier) that adds some whitespace to array literals
 -   An implementation of Elm-style decoders called [Adeilad](https://github.com/eeue56/adeilad/)
 -   A package that tells you the raw typescript type for a json file or endpoint called [Amddiffyn](https://github.com/eeue56/amddiffyn)
+-   A flag parsing library in Typescript called [Baner](https://github.com/eeue56/baner)
 
 ## Context
 
