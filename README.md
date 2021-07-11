@@ -5,6 +5,7 @@ Hiraeth is a collection of small packages covering all aspects of modern web dev
 So far, the Hiraeth collection contains:
 
 -   A Pytest-style test runner for TS called [Bach](https://github.com/eeue56/bach), supporting async and sync functions
+-   A Pytest-style benchmark runner for TS called [Mainc](https://github.com/eeue56/mainc), supporting async and sync functions
 -   An Elm-style documention generator that looks in your tsconfig to generate a markdown file with documentation per module called [geiriadur](https://github.com/eeue56/geiriadur)
 -   A HTML library similar to Elm's called [Coed](https://github.com/eeue56/coed), built on a small virtual-dom
 -   A library with functional programming datastructures called [ts-core](https://github.com/eeue56/ts-core/)

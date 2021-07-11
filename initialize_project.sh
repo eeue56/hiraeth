@@ -29,6 +29,8 @@ tsconfig.insert(-1, "\"exclude\": [ \"node_modules/**\" ],"); \
 f = open("tsconfig.json", "w"); \
 f.write("\n".join(tsconfig))'
 
+echo -e "\nbuild" >> .gitignore
+
 cd ../
 
 ./add_prettier.sh $1
